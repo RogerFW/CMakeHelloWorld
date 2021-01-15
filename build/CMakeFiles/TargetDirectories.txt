@@ -1,0 +1,3 @@
+/home/roger/C++/CMakeHelloWorld/build/CMakeFiles/rebuild_cache.dir
+/home/roger/C++/CMakeHelloWorld/build/CMakeFiles/edit_cache.dir
+/home/roger/C++/CMakeHelloWorld/build/CMakeFiles/hello.dir
